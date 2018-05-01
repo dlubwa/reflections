@@ -11,10 +11,12 @@ Staging area includes all files tracked by git but not yet committed while worki
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-Only add a file that you are ready to commit 
+Only add a file that you are ready to commit
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+Whenever you want to try something more experimental that deviates majorly from the current project theme or when you want to use a different language for you project. Branches give you the flexibility to do this without worrying too much about affecting the main project 
 
 How do the diagrams help you visualize the branch structure?
 
