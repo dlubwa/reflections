@@ -16,9 +16,11 @@ Only add a file that you are ready to commit
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-Whenever you want to try something more experimental that deviates majorly from the current project theme or when you want to use a different language for you project. Branches give you the flexibility to do this without worrying too much about affecting the main project 
+Whenever you want to try something more experimental that deviates majorly from the current project theme or when you want to use a different language for you project. Branches give you the flexibility to do this without worrying too much about affecting the main project
 
 How do the diagrams help you visualize the branch structure?
+
+Its easy to see what commits belong to which branch 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
