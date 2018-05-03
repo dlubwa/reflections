@@ -1,1 +1,4 @@
 
+When would you want to use a remote repository rather than keeping all your work local?
+
+If you want to collaborate on a project with different users it makes sense to have a remote repository
