@@ -14,3 +14,7 @@ Fork is a type of clone that is used exclusively on the Github platform and used
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can work on it offline without needing to be connected to the internet
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Probably rely on sending updated versions of documents back and forth. It would be a lot more time consuming to collaborate on projects as whole
